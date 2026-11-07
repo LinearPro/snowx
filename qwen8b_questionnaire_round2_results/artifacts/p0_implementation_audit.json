@@ -1,0 +1,163 @@
+{
+  "mapping": {
+    "sampled_cells": 256,
+    "all_answer_cache_mappings_match": true,
+    "item_axis_matches_metadata": true,
+    "row_axis_matches_row_keys": true,
+    "answer_id_0_matches_missing_mask": true
+  },
+  "pooling": {
+    "padding_side": "left",
+    "attention_masks_tested": [
+      [
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      [
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    ],
+    "actual_indices": [
+      4,
+      4
+    ],
+    "expected_indices": [
+      4,
+      4
+    ],
+    "matches_hidden_last_position": true,
+    "general_official_formula_for_right_padding": "attention_mask.sum(dim=1)-1"
+  },
+  "shapes": {
+    "batch_rows": 4,
+    "category_ids": [
+      4,
+      596
+    ],
+    "numeric_values": [
+      4,
+      96,
+      2
+    ],
+    "multiselect_hot": [
+      4,
+      18,
+      16
+    ],
+    "item_embedding": [
+      4,
+      596,
+      64
+    ],
+    "missing_mask": [
+      4,
+      596
+    ],
+    "raw_value_embedding": [
+      4,
+      596,
+      64
+    ],
+    "question_embedding_lookup": [
+      596,
+      4096
+    ],
+    "answer_unique_embedding_lookup": [
+      176,
+      4096
+    ],
+    "answer_logical_lookup": [
+      4,
+      596,
+      4096
+    ],
+    "question_projection": [
+      4,
+      596,
+      64
+    ],
+    "answer_projection": [
+      4,
+      596,
+      64
+    ],
+    "fused_item_tokens": [
+      4,
+      596,
+      64
+    ],
+    "sequence_with_cls": [
+      4,
+      597,
+      64
+    ],
+    "transformer_output": [
+      4,
+      597,
+      64
+    ],
+    "cls_pooled": [
+      4,
+      64
+    ],
+    "logits": [
+      4,
+      2
+    ]
+  },
+  "H_parameters": {
+    "by_component": {
+      "raw_encoder": {
+        "parameters": 207040,
+        "trainable": 207040,
+        "frozen": 0
+      },
+      "item_embedding": {
+        "parameters": 38144,
+        "trainable": 38144,
+        "frozen": 0
+      },
+      "semantic_missing": {
+        "parameters": 38144,
+        "trainable": 38144,
+        "frozen": 0
+      },
+      "question_projection": {
+        "parameters": 262336,
+        "trainable": 262336,
+        "frozen": 0
+      },
+      "answer_projection": {
+        "parameters": 262336,
+        "trainable": 262336,
+        "frozen": 0
+      },
+      "fusion": {
+        "parameters": 16576,
+        "trainable": 16576,
+        "frozen": 0
+      },
+      "encoder": {
+        "parameters": 83584,
+        "trainable": 83584,
+        "frozen": 0
+      },
+      "head": {
+        "parameters": 130,
+        "trainable": 130,
+        "frozen": 0
+      }
+    },
+    "total": 908354,
+    "trainable": 908354,
+    "frozen": 0,
+    "qwen_parameters_not_instantiated_in_downstream_model": true
+  }
+}

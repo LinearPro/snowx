@@ -1,0 +1,226 @@
+{
+  "status": "passed",
+  "purpose": "small-sample pipeline/memory/speed check only; not a result",
+  "runs": [
+    {
+      "model": "V",
+      "batch_n": 32,
+      "items": 596,
+      "logits_shape": [
+        32,
+        3
+      ],
+      "loss": 1.1771240234375,
+      "forward_backward_seconds": 0.39251708984375,
+      "peak_gpu_memory_bytes": 201065984,
+      "parameters": {
+        "by_component": {
+          "raw_encoder": {
+            "parameters": 207040,
+            "trainable": 207040,
+            "frozen": 0
+          },
+          "item_embedding": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "semantic_missing": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "fusion": {
+            "parameters": 8384,
+            "trainable": 8384,
+            "frozen": 0
+          },
+          "encoder": {
+            "parameters": 83584,
+            "trainable": 83584,
+            "frozen": 0
+          },
+          "head": {
+            "parameters": 195,
+            "trainable": 195,
+            "frozen": 0
+          }
+        },
+        "total": 375555,
+        "trainable": 375555,
+        "frozen": 0,
+        "qwen_parameters_not_instantiated_in_downstream_model": true
+      }
+    },
+    {
+      "model": "S2",
+      "batch_n": 32,
+      "items": 596,
+      "logits_shape": [
+        32,
+        3
+      ],
+      "loss": 1.2757568359375,
+      "forward_backward_seconds": 0.3252692222595215,
+      "peak_gpu_memory_bytes": 345536512,
+      "parameters": {
+        "by_component": {
+          "item_embedding": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "semantic_missing": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "joint_projection": {
+            "parameters": 262336,
+            "trainable": 262336,
+            "frozen": 0
+          },
+          "fusion": {
+            "parameters": 8384,
+            "trainable": 8384,
+            "frozen": 0
+          },
+          "encoder": {
+            "parameters": 83584,
+            "trainable": 83584,
+            "frozen": 0
+          },
+          "head": {
+            "parameters": 195,
+            "trainable": 195,
+            "frozen": 0
+          }
+        },
+        "total": 430851,
+        "trainable": 430851,
+        "frozen": 0,
+        "qwen_parameters_not_instantiated_in_downstream_model": true
+      }
+    },
+    {
+      "model": "H",
+      "batch_n": 32,
+      "items": 596,
+      "logits_shape": [
+        32,
+        3
+      ],
+      "loss": 1.3736572265625,
+      "forward_backward_seconds": 0.13690567016601562,
+      "peak_gpu_memory_bytes": 293414400,
+      "parameters": {
+        "by_component": {
+          "raw_encoder": {
+            "parameters": 207040,
+            "trainable": 207040,
+            "frozen": 0
+          },
+          "item_embedding": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "semantic_missing": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "question_projection": {
+            "parameters": 262336,
+            "trainable": 262336,
+            "frozen": 0
+          },
+          "answer_projection": {
+            "parameters": 262336,
+            "trainable": 262336,
+            "frozen": 0
+          },
+          "fusion": {
+            "parameters": 16576,
+            "trainable": 16576,
+            "frozen": 0
+          },
+          "encoder": {
+            "parameters": 83584,
+            "trainable": 83584,
+            "frozen": 0
+          },
+          "head": {
+            "parameters": 195,
+            "trainable": 195,
+            "frozen": 0
+          }
+        },
+        "total": 908419,
+        "trainable": 908419,
+        "frozen": 0,
+        "qwen_parameters_not_instantiated_in_downstream_model": true
+      }
+    },
+    {
+      "model": "R",
+      "batch_n": 32,
+      "items": 596,
+      "logits_shape": [
+        32,
+        3
+      ],
+      "loss": 1.26654052734375,
+      "forward_backward_seconds": 0.6661555767059326,
+      "peak_gpu_memory_bytes": 293414400,
+      "parameters": {
+        "by_component": {
+          "raw_encoder": {
+            "parameters": 207040,
+            "trainable": 207040,
+            "frozen": 0
+          },
+          "item_embedding": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "semantic_missing": {
+            "parameters": 38144,
+            "trainable": 38144,
+            "frozen": 0
+          },
+          "question_projection": {
+            "parameters": 262336,
+            "trainable": 262336,
+            "frozen": 0
+          },
+          "answer_projection": {
+            "parameters": 262336,
+            "trainable": 262336,
+            "frozen": 0
+          },
+          "fusion": {
+            "parameters": 16576,
+            "trainable": 16576,
+            "frozen": 0
+          },
+          "encoder": {
+            "parameters": 83584,
+            "trainable": 83584,
+            "frozen": 0
+          },
+          "head": {
+            "parameters": 195,
+            "trainable": 195,
+            "frozen": 0
+          }
+        },
+        "total": 908419,
+        "trainable": 908419,
+        "frozen": 0,
+        "qwen_parameters_not_instantiated_in_downstream_model": true
+      }
+    }
+  ]
+}

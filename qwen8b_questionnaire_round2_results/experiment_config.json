@@ -1,0 +1,58 @@
+{
+  "schema_version": 2,
+  "experiment_name": "qwen8b_questionnaire_round2",
+  "data_dir": "/home/amax/lingp/code/snowx/collaborator_package_20261027",
+  "round1_dir": "/home/amax/lingp/code/snowx/qwen8b_questionnaire_experiment",
+  "model_path": "/home/amax/lingp/models/Qwen3-Embedding-8B",
+  "split_assignment": "/home/amax/lingp/code/snowx/qwen8b_questionnaire_experiment/results/split_assignment.csv",
+  "feature_sets": ["full", "common"],
+  "targets": ["SI_T0", "SA_T0", "SB_T0", "SI_T1", "SA_T1", "SB_T1", "Trans"],
+  "binary_targets": ["SI_T0", "SA_T0", "SB_T0", "SI_T1", "SA_T1", "SB_T1"],
+  "full_exclusions": ["BI_ethnicity_common", "BI_siblings_common"],
+  "split_seed": 20261001,
+  "training_seeds": [20261001, 20261002, 20261003],
+  "sampling_seeds": [20261101, 20261102, 20261103],
+  "mask_seeds": [20261201, 20261202, 20261203],
+  "random_semantic_seed": 20261017,
+  "train_fractions": [0.05, 0.20, 1.00],
+  "models": ["C", "V", "S2", "H", "R"],
+  "embedding": {
+    "pooling": "last_valid_token",
+    "padding_side": "left",
+    "l2_normalize": true,
+    "dtype": "float16",
+    "max_tokens": 8192,
+    "silent_truncation": false,
+    "batch_size": 64
+  },
+  "transformer_search": [
+    {"id": "t64", "d_model": 64, "semantic_dim": 64, "nhead": 4, "layers": 2, "ff_dim": 192, "dropout": 0.10, "lr": 0.0003, "weight_decay": 0.0001},
+    {"id": "t96", "d_model": 96, "semantic_dim": 64, "nhead": 4, "layers": 2, "ff_dim": 256, "dropout": 0.15, "lr": 0.00015, "weight_decay": 0.001}
+  ],
+  "catboost_search": [
+    {"id": "cb6", "depth": 6, "learning_rate": 0.08, "iterations": 1200, "l2_leaf_reg": 3.0},
+    {"id": "cb8", "depth": 8, "learning_rate": 0.05, "iterations": 1200, "l2_leaf_reg": 5.0}
+  ],
+  "training": {
+    "batch_size_full": 128,
+    "batch_size_common": 512,
+    "max_epochs": 40,
+    "minimum_epochs": 4,
+    "early_stopping_patience": 6,
+    "gradient_clip_norm": 1.0,
+    "selection_metric_binary": "validation_AP",
+    "selection_metric_trans": "validation_macro_AP",
+    "binary_class_weight": "sqrt_train_negative_to_positive_ratio",
+    "multiclass_weight": "sqrt_train_n_over_class_n_then_mean_normalized",
+    "amp_dtype": "bfloat16"
+  },
+  "calibration": {
+    "binary": "Platt scaling fitted on validation logits only",
+    "multiclass": "single temperature fitted on validation logits only"
+  },
+  "bootstrap_replicates": 1000,
+  "calibration_bins": 10,
+  "stress_mask_rates": [0.0, 0.1, 0.3, 0.5],
+  "question_budgets": [64, 128, 256, 596],
+  "exploratory_test_status": "Test results were viewed in round 1; round 2 is exploratory."
+}

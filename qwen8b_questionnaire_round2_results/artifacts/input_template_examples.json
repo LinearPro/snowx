@@ -1,0 +1,81 @@
+{
+  "template_S1": "题目：{题干}\n时间范围：{时间范围}\n回答：{中性代码或原数值及单位}",
+  "template_S2": "题目：{题干}\n时间范围：{时间范围}\n回答：{原始中文回答}",
+  "template_H_question": "题目：{题干}\n时间范围：{时间范围}\n单位：{必要单位}",
+  "template_H_answer": "{现有中文回答文本}",
+  "same_item_different_answers": [
+    {
+      "item_id": "phq_01",
+      "value_type": "ordinal_response_code",
+      "S1_examples": [
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：C1",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：C2",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：C3",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：C4"
+      ],
+      "S2_examples": [
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：[缺失]",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：一半以上时间",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：几乎天天",
+        "题目：过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。\n时间范围：过去两周\n回答：有几天"
+      ]
+    },
+    {
+      "item_id": "BI_age",
+      "value_type": "continuous_numeric",
+      "S1_examples": [
+        "题目：年龄：\n时间范围：未明示\n回答：10 岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.1 岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.2 岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.3 岁"
+      ],
+      "S2_examples": [
+        "题目：年龄：\n时间范围：未明示\n回答：10.1岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.2岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.3岁",
+        "题目：年龄：\n时间范围：未明示\n回答：10.4岁"
+      ]
+    },
+    {
+      "item_id": "LSIE_y01__multiselect",
+      "value_type": "multiselect_source_ids",
+      "S1_examples": [
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：C482",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[M1,M10,M11,M12,M13]",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[M1,M10,M11,M13]",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[M1,M10,M11]"
+      ],
+      "S2_examples": [
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[\"不愿意回答\"]",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[\"不熟悉的同班同学\",\"其他亲属或同伴\"]",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[\"不熟悉的同班同学\"]",
+        "题目：您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）\n时间范围：曾经\n回答：[\"亲生母亲\",\"不熟悉的同班同学\",\"其他亲属或同伴\"]"
+      ]
+    }
+  ],
+  "typed_examples": [
+    {
+      "kind": "continuous",
+      "item_id": "BI_age",
+      "rule": "float channel; train-subset mean/std; unit 岁 retained in semantic question/answer"
+    },
+    {
+      "kind": "multiselect",
+      "item_id": "LSIE_y01__multiselect",
+      "rule": "approved JSON list -> multi-hot set; literal 无 -> observed empty set; NA -> missing"
+    },
+    {
+      "kind": "missing",
+      "value": "NA",
+      "rule": "separate missing mask and learned item-specific missing representation"
+    },
+    {
+      "kind": "negative response",
+      "rule": "中文否定回答 remains a normal observed answer, never converted to missing"
+    },
+    {
+      "kind": "clock",
+      "rule": "strict HH:MM parsed to cyclic sin/cos; original HH:MM retained for semantic answer"
+    }
+  ]
+}

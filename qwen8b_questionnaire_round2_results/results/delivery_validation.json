@@ -1,0 +1,39 @@
+{
+  "passed": true,
+  "required_missing": [],
+  "completed_counts": {
+    "full_completed": 294,
+    "common_completed": 105,
+    "question_budget_completed": 252,
+    "importance_parts": 21
+  },
+  "expected_counts": {
+    "full_completed": 294,
+    "common_completed": 105,
+    "question_budget_completed": 252,
+    "importance_parts": 21
+  },
+  "count_checks": {
+    "full_completed": true,
+    "common_completed": true,
+    "question_budget_completed": true,
+    "importance_parts": true
+  },
+  "probability_checks": {
+    "trans_probability_nonnegative": true,
+    "trans_probability_max_row_sum_error": 3.3306690738754696e-16,
+    "trans_probability_sum_within_1e-6": true,
+    "binary_p1_in_unit_interval": true
+  },
+  "selection_checks": {
+    "selection_never_uses_test": true,
+    "selected_rows": 896
+  },
+  "metrics_checks": {
+    "core_test_rows_have_three_seeds": true,
+    "core_test_groups": 161,
+    "ap_definition": "sklearn.metrics.average_precision_score"
+  },
+  "fixed_split_seed": 20261001,
+  "exploratory_test_status": "Test results were viewed in round 1; round 2 is exploratory."
+}

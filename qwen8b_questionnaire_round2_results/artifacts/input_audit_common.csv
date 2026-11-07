@@ -1,0 +1,214 @@
+feature_set,record_type,target,split,item_id,value_type,included,exclusion_reason,n,label_missing,class_0,class_1,class_2,feature_missing_rate,missing_reason_resolution
+common,feature,,train,BI_education,categorical_grade,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_age,continuous_numeric,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_ethnicity,categorical,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_height,continuous_numeric,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_weight,continuous_numeric,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_parent_health,categorical,1,,110590,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_parent_marriage,categorical,1,,110590,,,,,0.060701690930463875,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_siblings,categorical,1,,110590,,,,,0.09995478795551135,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_birth_sex,categorical,1,,110590,,,,,0.011113120535310607,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_subjective_family_ses,numeric_rating,1,,110590,,,,,0.06240166380323718,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_01,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_02,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_03,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_04,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_05,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_06,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_07,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,phq_08,ordinal_response_code,1,,110590,,,,,0.022615064653223618,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_01,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_02,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_03,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_04,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_05,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_06,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,gad_07,ordinal_response_code,1,,110590,,,,,0.021059770322813996,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,FVF_y01,ordinal_response_code,1,,110590,,,,,0.030364409078578534,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,FVF_y02,ordinal_response_code,1,,110590,,,,,0.030364409078578534,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,FVF_y03,ordinal_response_code,1,,110590,,,,,0.030364409078578534,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,FVF_y04,ordinal_response_code,1,,110590,,,,,0.030364409078578534,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,FVF_y05,ordinal_response_code,1,,110590,,,,,0.030364409078578534,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_family_harmony,numeric_rating,1,,110590,,,,,0.03003888235826024,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,BI_family_happiness,numeric_rating,1,,110590,,,,,0.03003888235826024,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_01,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_02,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_03,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_04,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_05,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,ers_06,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_01,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_02,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_03,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_04,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_16,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_17,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_18,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_19,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_20,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_21,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_22,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_23,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_24,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_25,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_26,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_27,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_28,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_29,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_30,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_31,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_32,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_33,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_34,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_35,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_36,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,train,maia_orig_37,ordinal_response_code,1,,110590,,,,,0.7077041323808663,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_education,categorical_grade,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_age,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_ethnicity,categorical,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_height,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_weight,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_parent_health,categorical,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_parent_marriage,categorical,1,,23698,,,,,0.05827495991222888,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_siblings,categorical,1,,23698,,,,,0.09536669761161279,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_birth_sex,categorical,1,,23698,,,,,0.012321714912650857,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_subjective_family_ses,numeric_rating,1,,23698,,,,,0.06160857456325428,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_01,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_02,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_03,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_04,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_05,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_06,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_07,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,phq_08,ordinal_response_code,1,,23698,,,,,0.025571778209131573,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_01,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_02,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_03,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_04,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_05,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_06,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,gad_07,ordinal_response_code,1,,23698,,,,,0.02358848848004051,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,FVF_y01,ordinal_response_code,1,,23698,,,,,0.032070216895940584,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,FVF_y02,ordinal_response_code,1,,23698,,,,,0.032070216895940584,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,FVF_y03,ordinal_response_code,1,,23698,,,,,0.032070216895940584,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,FVF_y04,ordinal_response_code,1,,23698,,,,,0.032070216895940584,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,FVF_y05,ordinal_response_code,1,,23698,,,,,0.032070216895940584,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_family_harmony,numeric_rating,1,,23698,,,,,0.031732635665457,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,BI_family_happiness,numeric_rating,1,,23698,,,,,0.031732635665457,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_01,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_02,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_03,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_04,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_05,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,ers_06,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_01,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_02,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_03,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_04,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_16,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_17,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_18,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_19,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_20,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_21,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_22,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_23,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_24,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_25,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_26,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_27,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_28,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_29,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_30,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_31,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_32,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_33,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_34,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_35,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_36,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,validation,maia_orig_37,ordinal_response_code,1,,23698,,,,,0.7125073845894169,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_education,categorical_grade,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_age,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_ethnicity,categorical,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_height,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_weight,continuous_numeric,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_parent_health,categorical,1,,23698,,,,,0.0,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_parent_marriage,categorical,1,,23698,,,,,0.059751877795594564,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_siblings,categorical,1,,23698,,,,,0.09908009114693223,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_birth_sex,categorical,1,,23698,,,,,0.011477761836441894,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_subjective_family_ses,numeric_rating,1,,23698,,,,,0.06287450417756772,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_01,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_02,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_03,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_04,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_05,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_06,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_07,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,phq_08,ordinal_response_code,1,,23698,,,,,0.02223816355810617,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_01,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_02,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_03,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_04,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_05,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_06,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,gad_07,ordinal_response_code,1,,23698,,,,,0.02080344332855093,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,FVF_y01,ordinal_response_code,1,,23698,,,,,0.030466706051143558,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,FVF_y02,ordinal_response_code,1,,23698,,,,,0.030466706051143558,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,FVF_y03,ordinal_response_code,1,,23698,,,,,0.030466706051143558,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,FVF_y04,ordinal_response_code,1,,23698,,,,,0.030466706051143558,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,FVF_y05,ordinal_response_code,1,,23698,,,,,0.030466706051143558,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_family_harmony,numeric_rating,1,,23698,,,,,0.030340113089712212,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,BI_family_happiness,numeric_rating,1,,23698,,,,,0.030340113089712212,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_01,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_02,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_03,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_04,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_05,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,ers_06,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_01,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_02,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_03,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_04,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_16,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_17,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_18,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_19,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_20,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_21,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_22,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_23,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_24,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_25,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_26,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_27,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_28,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_29,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_30,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_31,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_32,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_33,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_34,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_35,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_36,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,feature,,test,maia_orig_37,ordinal_response_code,1,,23698,,,,,0.7083298168621824,unknown; source files do not distinguish skip logic from nonresponse
+common,target,SI_T0,train,,,0,target never enters features,104684,5906,84779,19905,,,not applicable
+common,target,SI_T0,validation,,,0,target never enters features,22385,1313,18131,4254,,,not applicable
+common,target,SI_T0,test,,,0,target never enters features,22388,1310,18139,4249,,,not applicable
+common,target,SA_T0,train,,,0,target never enters features,104684,5906,102766,1918,,,not applicable
+common,target,SA_T0,validation,,,0,target never enters features,22385,1313,21954,431,,,not applicable
+common,target,SA_T0,test,,,0,target never enters features,22388,1310,21955,433,,,not applicable
+common,target,SB_T0,train,,,0,target never enters features,104684,5906,82861,21823,,,not applicable
+common,target,SB_T0,validation,,,0,target never enters features,22385,1313,17700,4685,,,not applicable
+common,target,SB_T0,test,,,0,target never enters features,22388,1310,17706,4682,,,not applicable
+common,target,SI_T1,train,,,0,target never enters features,60277,50313,53521,6756,,,not applicable
+common,target,SI_T1,validation,,,0,target never enters features,12896,10802,11400,1496,,,not applicable
+common,target,SI_T1,test,,,0,target never enters features,12983,10715,11507,1476,,,not applicable
+common,target,SA_T1,train,,,0,target never enters features,60277,50313,57481,2796,,,not applicable
+common,target,SA_T1,validation,,,0,target never enters features,12896,10802,12294,602,,,not applicable
+common,target,SA_T1,test,,,0,target never enters features,12983,10715,12373,610,,,not applicable
+common,target,SB_T1,train,,,0,target never enters features,60277,50313,53465,6812,,,not applicable
+common,target,SB_T1,validation,,,0,target never enters features,12896,10802,11391,1505,,,not applicable
+common,target,SB_T1,test,,,0,target never enters features,12983,10715,11492,1491,,,not applicable
+common,target,Trans,train,,,0,target never enters features,68176,42414,43412,2941,21823,,not applicable
+common,target,Trans,validation,,,0,target never enters features,14545,9153,9227,633,4685,,not applicable
+common,target,Trans,test,,,0,target never enters features,14683,9015,9366,635,4682,,not applicable

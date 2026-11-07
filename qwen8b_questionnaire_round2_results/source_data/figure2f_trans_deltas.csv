@@ -1,0 +1,7 @@
+comparison,feature_set,target,train_fraction,seed_scope,train_seed,sampling_seed,metric,difference,ci_low,ci_high,n,bootstrap_replicates,training_seed_n,difference_sd_across_training_seeds
+H-R,full,Trans,1.0,mean_across_training_seeds,,,macro_AP,0.0015118148393287,-0.0003605248597167,0.0034434134416571,14683,1000,3.0,0.0028702109567635
+H-R,full,Trans,1.0,mean_across_training_seeds,,,class_1_AP,9.585745658378016e-05,-0.00460000901036,0.0047986656727408,14683,1000,3.0,0.0054693210819979
+H-V,full,Trans,1.0,mean_across_training_seeds,,,macro_AP,0.000408331146331,-0.0011827194024376,0.00190546232887,14683,1000,3.0,0.0018856769916054
+H-V,full,Trans,1.0,mean_across_training_seeds,,,class_1_AP,0.000516058855969,-0.0032554447962431,0.0039204686455309,14683,1000,3.0,0.0048588111543744
+H-C,full,Trans,1.0,mean_across_training_seeds,,,macro_AP,-0.0010731999642361,-0.003340326884833,0.0011528221395564,14683,1000,3.0,0.0022153689297432
+H-C,full,Trans,1.0,mean_across_training_seeds,,,class_1_AP,-0.0024071383488223,-0.0081017020491502,0.0031812148859878,14683,1000,3.0,0.0058791192751468

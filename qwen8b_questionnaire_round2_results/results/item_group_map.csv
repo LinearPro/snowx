@@ -1,0 +1,597 @@
+item_id,question_text,item_group_draft,common_item_id,mapping_status
+性别,问卷平台记录的性别（与自报出生性别分开保留）,unassigned,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_education,您目前受教育水平为：,BI,BI_education,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_age,年龄：,BI,BI_age,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_ethnicity,民族：,BI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_height,身高：___ 厘米（填阿拉伯数字，如156）,BI,BI_height,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_weight,体重：___ 斤（填阿拉伯数字，如100）,BI,BI_weight,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_place_y,您家庭的居住地属于,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_parent_health,您父母的健康状况：,BI,BI_parent_health,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_parent_marriage,您父母的婚姻状况：,BI,BI_parent_marriage,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_divorceage_y,父母离婚时【您的年龄】是？（如果记不清楚，请估计一个）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_LWA_y,那您目前跟哪位父母在一起生活？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_LWB_y,那您目前跟哪位父母在一起生活？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_LWC_y,那您目前跟哪位父母在一起生活？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_FDA_y,父亲去世时【您的年龄】是几岁？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_MDA_y,母亲去世时【您的年龄】是几岁？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_PMW_y01,您【亲生父母】是否有过长期（连续6个月及以上）在外地工作的经历？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_PMW_yf02,您【亲生父亲】第一次长期（连续6个月及以上）去外地工作时，【您自己】多大？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_PMW_yf03,到【目前为止】，【亲生父亲】长期在外务工总计多少年？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_PMW_ym02,您【亲生母亲】第一次长期（连续6个月及以上）去外地工作时，【您自己】多大？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_PMW_ym03,到【目前为止】，【亲生母亲】长期在外务工总计多少年？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_eduF_y,您【亲生父亲】的文化程度,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_eduM_y,您【亲生母亲】的文化程度,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_onechild_y,您是否为独生子女,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_sibling_y01,您有几个和您同父同母的哥哥？（有几个就填几，没有请填0）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_sibling_y02,您有几个和您同父同母的姐姐？（有几个就填几，没有请填0）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_sibling_y03,您有几个和您同父同母的弟弟？（有几个就填几，没有请填0）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_sibling_y04,您有几个和您同父同母的妹妹？（有几个就填几，没有请填0）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_twin_y,您有双胞胎/三胞胎兄弟姐妹吗？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PRE_y01,总体而言，您觉得父母更爱您还是爱您的兄弟姐妹？,PRE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PRE_y02,总体而言，您和您的兄弟姐妹，谁从父母那儿得到的东西（如，玩具、食物等）更多？,PRE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_study_y,您上学期期末考试的总体成绩在班上属于什么位置？,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LP_y01,下列句子与学习压力有关，请根据您的实际感受进行评估。：您认为自己在学校里的学习压力如何？,LP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LP_y02,下列句子与学习压力有关，请根据您的实际感受进行评估。：您认为自己除学校以外的学习压力（如补课、兴趣班等）如何？,LP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_birth_sex,出生性别：,BI,BI_birth_sex,draft based on item-id prefix; not a validated scale or psychological mechanism
+GI_y01,不管您的生理性别是男生还是女生，您觉得自己内心深处体验到的性别是什么？,GI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GO_y01,您喜欢或喜欢过________？（也包括暗恋）,GO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GO_y02,请问下面哪个选项可以最好地描述您？,GO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y01,我体验到的性别与我的生理性别之间存在明显的不一致,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y02,我想要去除自己身上的女性生理特征（如乳房等）或阻止其发育,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y03,我希望拥有男性的生理特征（如喉结等）,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y04,我渴望成为男性（或与生理性别不同的某种替代性别）,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y05,我希望自己能被当作男性（或与生理性别不同的某种替代性别）看待,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAF_y06,我坚信自己具有男性（或与生理性别不同的某种替代性别）的典型感受和反应,GAF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y01,我体验到的性别与我的生理性别之间存在明显的不一致,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y02,我想要去除自己身上的男性生理特征（如喉结等）或阻止其发育,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y03,我希望拥有女性的生理特征（如乳房等）,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y04,我渴望成为女性（或与生理性别不同的某种替代性别）,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y05,我希望自己能被当作女性（或与生理性别不同的某种替代性别）看待,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAM_y06,我坚信自己具有女性（或与生理性别不同的某种替代性别）的典型感受和反应,GAM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT,您是否属于性与性别多元群体（如：同性恋、双性恋、跨性别、性别酷儿等）？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K__multiselect,下面列出的哪些人知道您是性与性别多元群体？（多选题）,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H01,【亲生父亲】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H02,【亲生母亲】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H03,【继父】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H04,【继母】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H05,【兄弟姐妹】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H06,【其他家庭成员/亲戚】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H07,【恋人】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H08,【好朋友】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H09,【同班同学（但不是恋人、好朋友）】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H10,【班主任或科任老师】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H11,【心理老师/心理咨询师】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H12,【心理/精神科医生】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H13,【网友】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_H14,【没有告诉任何人】是如何得知您是性与性别多元群体的？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E01,【亲生父亲】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E02,【亲生母亲】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E03,【继父】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E04,【继母】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E05,【兄弟姐妹】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E06,【其他家庭成员/亲戚】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E07,【恋人】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E08,【好朋友】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E09,【同班同学（但不是恋人、好朋友）】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E10,【班主任或科任老师】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E11,【心理老师/心理咨询师】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E12,【心理/精神科医生】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E13,【网友】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LGBT_K_E14,【没有告诉任何人】知道您是性与性别多元群体后，给您带来了怎样的影响？,LGBT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_subjective_family_ses,如果每个家庭的收入、受教育程度、工作受尊重程度在社会中所处的位置可以分为10个等级，其中1表示最低等级，10代表最高等级，您认为自己的家庭在社会中处于哪个等级？,BI,BI_subjective_family_ses,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y01,经历过或看到过非常严重的交通事故、火灾,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y02,自己或亲人突然得了致命的疾病或受到重伤,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y03,遭遇地震、台风、洪水或泥石流等自然灾害,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y04,和最重要的人突然分开较长一段时间（例如父母、兄弟姐妹、最好的朋友）,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y05,被抢劫或绑架,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y06,被迫发生性行为或被性侵犯,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y07,身体受到严重伤害或被虐待（比如被严重打骂或没吃、没穿、没地方住),TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y08,看到有人使用枪、刀或其他武器杀死或伤害他人,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y09,看到家庭成员在家被狠狠的打、被推或者被踢（不包括兄弟姐妹间的正常打闹）,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y10,在现实生活中看见过死人（不包括在葬礼上）,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y11,当您病得很重或者严重受伤时，曾在医院接受很疼、让人害怕的治疗（例如，化疗、放疗、重大手术等）,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y12,曾休学半年及以上,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TR_y13,曾退学过,TR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_01,过去两周内，您出现下列情况的频率是：做什么事都没兴趣，没意思。,phq,phq_01,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_02,过去两周内，您出现下列情况的频率是：感到心情低落，抑郁，没希望。,phq,phq_02,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_03,过去两周内，您出现下列情况的频率是：入睡困难，总是醒着，或睡得太多嗜睡。,phq,phq_03,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_04,过去两周内，您出现下列情况的频率是：常感到很疲倦，没劲，如做事情的精力不足。,phq,phq_04,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_05,过去两周内，您出现下列情况的频率是：食欲不好，或吃得太多。,phq,phq_05,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_06,过去两周内，您出现下列情况的频率是：自己对自己不满，觉得自己是个失败者，或让家人丢脸了。,phq,phq_06,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_07,过去两周内，您出现下列情况的频率是：无法集中精力，即便是读报纸或看电视时，记忆力下降。,phq,phq_07,draft based on item-id prefix; not a validated scale or psychological mechanism
+phq_08,过去两周内，您出现下列情况的频率是：行动或说话缓慢到引起人们的注意，或刚好相反，坐卧不安，烦躁易怒，到处走动。,phq,phq_08,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_01,过去两周内，您出现下列情况的频率是：感觉紧张，焦虑或急切。,gad,gad_01,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_02,过去两周内，您出现下列情况的频率是：不能够停止或控制担忧。,gad,gad_02,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_03,过去两周内，您出现下列情况的频率是：对各种各样的事情担忧过多。,gad,gad_03,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_04,过去两周内，您出现下列情况的频率是：很难放松下来。,gad,gad_04,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_05,过去两周内，您出现下列情况的频率是：由于不安而无法静坐。,gad,gad_05,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_06,过去两周内，您出现下列情况的频率是：变得容易烦恼或急躁。,gad,gad_06,draft based on item-id prefix; not a validated scale or psychological mechanism
+gad_07,过去两周内，您出现下列情况的频率是：感到似乎将有可怕的事情发生而害怕。,gad,gad_07,draft based on item-id prefix; not a validated scale or psychological mechanism
+SA_y01,请您基于自己【过去一周】的表现，对以下情况进行评级：我因为害怕尴尬而避免与人共事或交谈,SA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SA_y02,请您基于自己【过去一周】的表现，对以下情况进行评级：我避免参加那些以我为中心的活动,SA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SA_y03,请您基于自己【过去一周】的表现，对以下情况进行评级：感到尴尬或看起来很愚蠢是我最害怕的事情,SA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRM_01,【过去两周内】，您是否曾经有过一段时间感觉非常好/情绪高涨/兴奋/过度亢奋，以至于周围的人认为您和平时不一样，或者这种过度亢奋的状态给您惹来麻烦？,ASRM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRM_02,【过去两周内】，您是否曾经有过一段时间感觉特别烦躁，甚至会对别人叫喊、挑衅打架或惹起争吵？,ASRM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y01,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我比平时更健谈,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y02,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我比平时更焦躁不安,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y03,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我需要的睡眠时间比平时少,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y04,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我的大脑飞速运转,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y05,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我比平时更有创造力或有更多的想法,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y06,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我容易分心,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y07,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我比平时更自信,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMS_y08,请尽量回忆您在【过去一周内】兴奋或烦躁的状态，并选出下列条目中所有符合您实际情况的选项。：我比平时更活跃,ASRMS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ASRMI_y,前8题所提到的状态是否给您造成了不好的后果（如影响了学习、人际关系、生活秩序等）？,ASRMI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y01,有些人认为他们的想法可以被他人读懂。是否有人曾经读懂过您的想法？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y02,您是否曾经通过电视或广播收到过只发给您的消息？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y03,您是否曾经想过有人在跟踪您或是监视您？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y04,您是否曾经听到过别人无法听到的声音？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y05,您是否曾经觉得自己被某种特殊的力量所控制？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y06,您是否曾经看到过别人无法看到的东西？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+APSS_y07,您是否曾经觉得自己有超能力？,APSS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y01__multiselect,您是否曾经【被精神心理科医生诊断】为以下疾病？（多选题）,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y02__multiselect,【至今为止】，您服用过哪些治疗精神疾病的药物（多选）,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y03__multiselect,【现在】您正在服用哪些治疗精神疾病的药物（多选）,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y04,您是否因为精神疾病接受过住院治疗？,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y05,您因为精神疾病住院过几次,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MIT_y06,您第一次因为精神疾病住院你是在几岁？,MIT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+R_y01,请评估下列关系：您【亲生父母之间】的关系,R,,draft based on item-id prefix; not a validated scale or psychological mechanism
+R_y02,请评估下列关系：您与【亲生父亲】的关系,R,,draft based on item-id prefix; not a validated scale or psychological mechanism
+R_y03,请评估下列关系：您与【亲生母亲】的关系,R,,draft based on item-id prefix; not a validated scale or psychological mechanism
+R_y04,请评估下列关系：您与【同班同学】的关系,R,,draft based on item-id prefix; not a validated scale or psychological mechanism
+R_y05,请评估下列关系：您与【班上老师】的关系,R,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RWS_y,您与【兄弟姐妹】的关系,RWS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RWSF_y,您与【继父】的关系,RWSF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RWSM_y,您与【继母】的关系,RWSM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FVF_y01,通常情况下，您遭受下列家庭暴力有多频繁？身体暴力（在家中被殴打或捆绑、或限制人身自由等让自己感到恐惧的行为）,FVF,FVF_y01,draft based on item-id prefix; not a validated scale or psychological mechanism
+FVF_y02,通常情况下，您遭受下列家庭暴力有多频繁？言语侮辱（在家中被侮辱、谩骂，使自己感到屈辱、恐惧等情绪）,FVF,FVF_y02,draft based on item-id prefix; not a validated scale or psychological mechanism
+FVF_y03,通常情况下，您遭受下列家庭暴力有多频繁？情感忽视（在家中不被重视，不被关心，被冷漠对待以致自己产生无价值感）,FVF,FVF_y03,draft based on item-id prefix; not a validated scale or psychological mechanism
+FVF_y04,通常情况下，您遭受下列家庭暴力有多频繁？性暴力（被家人或亲戚暴力胁迫或无法反抗的状态下猥亵或性侵犯）,FVF,FVF_y04,draft based on item-id prefix; not a validated scale or psychological mechanism
+FVF_y05,通常情况下，您遭受下列家庭暴力有多频繁？身体忽视（在家里没人照顾，吃不饱，不得不穿脏衣服，生病了没人带看医生等）,FVF,FVF_y05,draft based on item-id prefix; not a validated scale or psychological mechanism
+FV_y02,您因为遭受家庭暴力而去医院的次数为？,FV,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FV_y03,【最近一年】，您遭受家庭暴力的次数是,FV,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FV_y04,在您的生活中，您的父亲（或男性抚养者）和母亲（或女性抚养者）在生气时有对彼此施加暴力行为吗？（例如，打耳光等）,FV,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_family_harmony,您觉得您的家庭有多和谐？（0代表非常不和谐，10代表非常和谐，分数越大代表您觉得越和谐）,BI,BI_family_harmony,draft based on item-id prefix; not a validated scale or psychological mechanism
+BI_family_happiness,您觉得您的家庭有多幸福？（0代表非常不幸福，10代表非常幸福，分数越大代表您觉得越幸福）,BI,BI_family_happiness,draft based on item-id prefix; not a validated scale or psychological mechanism
+CF_y,您有几个亲密朋友？亲密朋友是指：您特别信任，愿意分享心事的朋友。,CF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PSP_y01,下面是一些关于您与同学关系的描述，请您根据您感受到的实际情况选择。 ：同学之间对彼此很刻薄,PSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PSP_y02,下面是一些关于您与同学关系的描述，请您根据您感受到的实际情况选择。 ：同学之间相互信任,PSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PSP_y03,下面是一些关于您与同学关系的描述，请您根据您感受到的实际情况选择。 ：同学之间团结友爱,PSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TSP_y01,下面是一些关于【您与现在的班主任】之间关系的描述，请根据您的实际感受进行选择。 ：我相信我的班主任，愿意向他/她咨询意见或寻求帮助,TSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TSP_y02,下面是一些关于【您与现在的班主任】之间关系的描述，请根据您的实际感受进行选择。 ：班主任相信我能做得很好,TSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TSP_y03,下面是一些关于【您与现在的班主任】之间关系的描述，请根据您的实际感受进行选择。 ：我觉得班主任对我不公平,TSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+TSP_y04,下面是一些关于【您与现在的班主任】之间关系的描述，请根据您的实际感受进行选择。 ：班主任很关心我，会帮助我解决问题,TSP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y01,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：我很开心在这所学校上学,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y02,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：我觉得自己是这所学校的一份子,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y03,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：在我的学校里，学生有机会参与一些活动或规则的决策,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y04,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：学校的规章制度可以保障我的安全,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y05,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：学校的规则制度明确说明了学生的哪些行为是不被允许的,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y06,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：学校的规则制度清晰、明确,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y07,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：如果有学生遭遇欺凌，学校鼓励学生把情况告诉老师,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y08,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：我可以在不被发现的情况下，秘密地向老师或校领导反映情况,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SC_y09,下列表述与您目前所在学校的感受有关，请根据您的实际情况进行选择。：在学校里，如果我感到不安全，我可以向老师请求帮助,SC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y01,【至今为止】，您有几次故意伤害自己身体的行为（如，通过咬/割伤/击打等），但是没有自杀的意图？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y03,您【第一次】尝试故意伤害自己的身体（但是没有自杀的意图）是在多少岁？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y04,您【最近一次】尝试故意伤害自己的身体（但是没有自杀的意图）是在多少岁？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y05,【过去一年内】，您有多少天出现故意伤害自己的行为，但是没有自杀的意图？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y01,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：逃避上学、工作或其他活动,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y02,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：缓解麻木感或空虚感,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y03,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：引起注意,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y04,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：有一些感觉，哪怕是疼痛,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y05,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：逃避自己不想做的讨厌事,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y06,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：获得别人的回应，哪怕是负面回应,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y07,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：从父母或朋友那里获得更多的关注,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y08,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：避免跟人待在一起,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y09,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：惩罚自己,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y10,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：逃避惩罚或承担后果,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y11,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：停止不好的感受,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y12,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：让他人知道自己有多绝望,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y13,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：让父母理解或注意自己,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y14,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：获得帮助,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSIR_y15,您（没有自杀意图）的自我伤害行为是出于以下原因吗？ ：放松,NSSIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y07,您是否因为自伤（没有自杀意图）而接受医疗救助？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y08,【上周】，您有多频繁做出故意伤害自己身体的行为，但是没有自杀的意图？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y09,【过去一年内】，您有多少天的时间出现故意伤害自己的【冲动】（没有自杀意图），但是没有采取任何行为？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+NSSI_y10,【上周】，您有多频繁出现故意伤害自己的【冲动】（没有自杀意图），但是没有采取任何行为？,NSSI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y01__multiselect,您是否有【家人或朋友】曾经故意伤害自己的身体，但不是真的想自杀？（多选题）,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_1,您第一次知道【亲生父亲】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_2,您第一次知道【亲生母亲】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_3,您第一次知道【继父】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_4,您第一次知道【继母】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_5,您第一次知道【外公（母亲的爸爸）】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_6,您第一次知道【外婆（母亲的妈妈）】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_7,您第一次知道【爷爷（父亲的爸爸）】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_8,您第一次知道【奶奶（父亲的妈妈）】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_9,您第一次知道【兄弟姐妹】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_10,您第一次知道【恋人】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_11,您第一次知道【好朋友】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_12,您第一次知道【熟悉的同班同学（但不是恋人、好朋友）】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_13,您第一次知道【不熟悉的同班同学】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y02_14,您第一次知道【其他亲属或同伴】故意伤害自己身体（但不是真的想自杀）时，您多大？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y03,您有多少个【好朋友】故意伤害自己的身体，但不是真的想自杀？,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y04__multiselect,您是否曾经【目睹他人】故意伤害自己身体（但不是真的想自杀）的过程？（多选题）,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LSIE_y05__multiselect,您是否曾经【跟他人约好一起】故意自我伤害，但不是真的想自杀？（多选题）,LSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIR_y__multiselect,您是否有告诉过任何人，您故意伤害自己身体（但没有自杀意图）的行为？（多选题）,SIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y01,【过去一年里】，您是否在社交媒体上看到过自伤相关的信息（包括新闻报道，他人表达自伤相关想法与行为的心情状态、帖子、视频等）？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIEF_y_01,【过去一年里】，您是否在社交媒体上有过以下行为？频率如何？：在社交媒体上点赞、评论、转发自伤相关的信息。,SMSIEF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIEF_y_02,【过去一年里】，您是否在社交媒体上有过以下行为？频率如何？：在社交媒体上主动发布有关他人自伤的信息。,SMSIEF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIEF_y_03,【过去一年里】，您是否在社交媒体上有过以下行为？频率如何？：在社交媒体上参与自伤相关的群组讨论。,SMSIEF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIEF_y_04,【过去一年里】，您是否在社交媒体上有过以下行为？频率如何？：在社交媒体上看到他人自伤相关的信息时，感受到更多负面情绪。,SMSIEF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y03,您认为上述社交媒体内容/行为在多大程度上增加了您对自伤的了解？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y04,您是否曾在社交媒体上，发送/发布【您故意伤害自己】（但不是真的想自杀）的文字或图片信息？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y05,您第一次在社交媒体上，发送/发布【您故意伤害自己】（但不是真的想自杀）的文字或图片信息时，您多大？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y06,您觉得自己（没有自杀目的）的自伤行为，在多大程度上是受到上述社交媒体内容/行为的影响或启发？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMSIE_y07,您第一次觉得自己受到上述社交媒体内容/行为的影响或启发时，您多大？,SMSIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ESE_y01,请评价您对以下说法的认同程度。 在问卷中询问与自杀有关的内容，对于了解青少年的心理健康状况十分必要。,ESE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01__multiselect,您是否有家人【因自杀而死亡】？（多选题）,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_1,您最早得知【亲生父亲自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_2,您最早得知【亲生母亲自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_3,您最早得知【继父自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_4,您最早得知【继母自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_5,您最早得知【外公（母亲的爸爸）自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_6,您最早得知【外婆（母亲的妈妈）自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_7,您最早得知【爷爷（父亲的爸爸）自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_8,您最早得知【奶奶（父亲的妈妈）自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_9,您最早得知【（非双胞胎/多胞胎）亲兄弟姐妹自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_10,您最早得知【同父异母/同母异父的兄弟姐妹自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_11,您最早得知【双胞胎/多胞胎自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01a_12,您最早得知【其他亲属（叔/伯/姑/婶/舅/姨，表/堂兄弟姐妹等）自杀死亡】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_1,总体而言，您的【亲生父亲自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_2,总体而言，您的【亲生母亲自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_3,总体而言，您的【继父自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_4,总体而言，您的【继母自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_5,总体而言，您的【外公（母亲的爸爸）自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_6,总体而言，您的【外婆（母亲的妈妈）自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_7,总体而言，您的【爷爷（父亲的爸爸）自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_8,总体而言，您的【奶奶（父亲的妈妈）自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_9,总体而言，您的【（非双胞胎/多胞胎）亲兄弟姐妹自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_10,总体而言，您的【同父异母/同母异父的兄弟姐妹自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_11,总体而言，您的【双胞胎/多胞胎自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01b_12,总体而言，您的【其他亲属（叔/伯/姑/婶/舅/姨，表/堂兄弟姐妹等）自杀死亡前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_1,总体而言，您受到【亲生父亲自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_2,总体而言，您受到【亲生母亲自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_3,总体而言，您受到【继父自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_4,总体而言，您受到【继母自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_5,总体而言，您受到【外公（母亲的爸爸）自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_6,总体而言，您受到【外婆（母亲的妈妈）自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_7,总体而言，您受到【爷爷（父亲的爸爸）自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_8,总体而言，您受到【奶奶（父亲的妈妈）自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_9,总体而言，您受到【（非双胞胎/多胞胎）亲兄弟姐妹自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_10,总体而言，您受到【同父异母/同母异父的兄弟姐妹自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_11,总体而言，您受到【双胞胎/多胞胎自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y01c_12,总体而言，您受到【其他亲属（叔/伯/姑/婶/舅/姨，表/堂兄弟姐妹等）自杀死亡】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02__multiselect,您是否有家人【有过自杀尝试，但没有死亡】？（多选题）,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_1,您最早知道【亲生父亲尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_2,您最早知道【亲生母亲尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_3,您最早知道【继父尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_4,您最早知道【继母尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_5,您最早知道【外公（母亲的爸爸）尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_6,您最早知道【外婆（母亲的妈妈）尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_7,您最早知道【爷爷（父亲的爸爸）尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_8,您最早知道【奶奶（父亲的妈妈）尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_9,您最早知道【（非双胞胎/多胞胎）亲兄弟姐妹尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_10,您最早知道【同父异母/同母异父的兄弟姐妹尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_11,您最早知道【双胞胎/多胞胎尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02a_12,您最早知道【其他亲属（叔/伯/姑/婶/舅/姨/表兄弟姐妹等）尝试过自杀】时，您多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_1,总体而言，您的【亲生父亲自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_2,总体而言，您的【亲生母亲自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_3,总体而言，您的【继父自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_4,总体而言，您的【继母自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_5,总体而言，您的【外公（母亲的爸爸）自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_6,总体而言，您的【外婆（母亲的妈妈）自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_7,总体而言，您的【爷爷（父亲的爸爸）自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_8,总体而言，您的【奶奶（父亲的妈妈）自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_9,总体而言，您的【（非双胞胎/多胞胎）亲兄弟姐妹自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_10,总体而言，您的【同父异母/同母异父的兄弟姐妹自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_11,总体而言，您的【双胞胎/多胞胎自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02b_12,总体而言，您的【其他亲属（叔/伯/姑/婶/舅/姨/表兄弟姐妹等）自杀尝试前】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_1,总体而言，您的【亲生父亲自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_2,总体而言，您的【亲生母亲自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_3,总体而言，您的【继父自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_4,总体而言，您的【继母自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_5,总体而言，您的【外公（母亲的爸爸）自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_6,总体而言，您的【外婆（母亲的妈妈）自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_7,总体而言，您的【爷爷（父亲的爸爸）自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_8,总体而言，您的【奶奶（父亲的妈妈）自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_9,总体而言，您的【（非双胞胎/多胞胎）亲兄弟姐妹自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_10,总体而言，您的【同父异母/同母异父的兄弟姐妹自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_11,总体而言，您的【双胞胎/多胞胎自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02c_12,总体而言，您的【其他亲属（叔/伯/姑/婶/舅/姨/表兄弟姐妹等）自杀尝试后】，你们相处得多吗？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_1,总体而言，您受到【亲生父亲自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_2,总体而言，您受到【亲生母亲自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_3,总体而言，您受到【继父自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_4,总体而言，您受到【继母自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_5,总体而言，您受到【外公（母亲的爸爸）自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_6,总体而言，您受到【外婆（母亲的妈妈）自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_7,总体而言，您受到【爷爷（父亲的爸爸）自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_8,总体而言，您受到【奶奶（父亲的妈妈）自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_9,总体而言，您受到【（非双胞胎/多胞胎）亲兄弟姐妹自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_10,总体而言，您受到【同父异母/同母异父的兄弟姐妹自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_11,总体而言，您受到【双胞胎/多胞胎自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SR_y02d_12,总体而言，您受到【其他亲属（叔/伯/姑/婶/舅/姨/表兄弟姐妹等）自杀尝试】的影响有多大？,SR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+HS_y01,【在过去一年内】，当你觉得自己有情绪问题的时候，你寻求帮助的频率是,HS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+HS_y02__multiselect,如果您未来有自伤或自杀行为，您会向下列哪些人员或通过哪些渠道寻求帮助？（多选题）,HS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+WSE_y01__multiselect,请选出【上周】在学校发生过的让您感到压力的事件。（多选题）,WSE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+WSE_y02__multiselect,请选出【上周】在人际交往方面发生过的让您感到压力的事件。（多选题）,WSE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+WSE_y03__multiselect,请选出【上周】在家庭方面发生过的让您感到压力的事件。（多选题）,WSE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_01,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：对别人友善，能关心别人的感受",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_02,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：不能安定，不能长时间保持安静",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_03,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常感到头痛、肚子痛或是身体不舒服",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_04,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：很乐意与别人分享东西（食物、游戏、笔等）",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_05,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常发脾气，容易愤怒",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_06,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：宁愿独处，也不愿和同龄人待在一起",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_07,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：通常不会按照大人的吩咐做事",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_08,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常不开心，担忧很多，心事重重",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_09,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：如果有人受伤、沮丧或是生病,我都很乐意提供帮助",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_10,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：当坐着时，我会经常坐立不安，持续不断地摆弄手脚或扭动身子",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_11,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：至少有一个好朋友",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_12,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常与别人吵架或欺负他们，让他们按我的想法做事",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_13,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常不快乐，心情沉重或流泪",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_14,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：与我年龄相近的人一般都喜欢我",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_15,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：容易分心，难以集中精神，不能全神贯注",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_16,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：在新的环境中会感到紧张，很容易失去自信",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_17,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：友善地对待年纪小的小孩子",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_18,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常被指责撒谎或不老实",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_19,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：被其他人或同伴欺负",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_20,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：经常自愿地帮助别人(父母、老师或其他伙伴)",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_21,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：做事前会思考",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_22,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：从家里、学校或其他地方偷东西",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_23,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：与同年纪的人相处不融洽",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_24,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：感到许多恐惧，很容易受惊吓",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_25,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：做事情能做到底，注意力持久",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_26,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：故意打伤他人，以至于他人不得不就医",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SDF_y_27,"请根据您【过去6个月内】的经验与事实 , 回答以下表述与您的符合程度。：在打架过程中使用了武器（如棍子、石头、刀等）",SDF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHO_y01,您是否曾在网上匿名伤害过自己（例如发布讽刺、否定自己的言论）？,SHO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOF_y01,您在网上匿名伤害自己的方式与频率如何？：匿名在网上发布针对自己的刻薄言论（包括给自己发送粗鲁的攻击性和侮辱性消息，以及讽刺、否定、诋毁自己等）,SHOF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOF_y02,您在网上匿名伤害自己的方式与频率如何？：匿名在网上传播有关自己的谣言，或会让自己尴尬的私密信息,SHOF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOF_y03,您在网上匿名伤害自己的方式与频率如何？：匿名在网上发布威胁或恐吓自己的信息,SHOF,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHO_y03,您第一次匿名在网上伤害自己是几岁？,SHO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHO_y04,您上次（最近一次）匿名在网上伤害自己是几岁？,SHO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOR_y01,您匿名在网上伤害自己是出于以下原因吗？：缓解不好的情绪感受,SHOR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOR_y02,您匿名在网上伤害自己是出于以下原因吗？：寻求刺激或想要的感觉，如为了好玩、找乐子,SHOR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOR_y03,您匿名在网上伤害自己是出于以下原因吗？：引起关注，如让家人/同学关心自己、看看谁站在自己这边,SHOR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOR_y04,您匿名在网上伤害自己是出于以下原因吗？：逃避，如逃避上学、逃避惩罚等,SHOR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SHOR_y05,您匿名在网上伤害自己是出于以下原因吗？：憎恨、惩罚自己,SHOR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y01,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人身体欺负（被他人推、撞、踢、打、咬、抢东西等）,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y02,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人言语欺负（被起难听的外号，遭到取笑或讽刺）,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y03,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人排挤、孤立（同学们不让我参与活动，或不理睬我等）,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y04,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人传播谣言、说坏话，导致别人对自己的印象变差,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y05,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人网络欺凌（有人通过互联网或短信欺负、威胁或骚扰我）,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VICW_y06,【过去一年里】，您在学校受到过下列任何一种方式的欺负吗？：被他人性骚扰或性侵犯,VICW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VIC_y01,欺负您的人主要是本班同学还是其他班的同学？,VIC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VIC_y03,是否有人拍了您被欺负时的图片或视频，并传播到网上？,VIC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+VIC_y04,您被欺负的图片或视频传到网上后，有【多少认识您的人】看过？,VIC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULW_y01,【过去一年里】，您在学校里曾经以下列任何一种方式【欺负过其他同学】吗？：身体欺负他人（推、撞、踢、打、咬他人，抢他人东西等）,BULW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULW_y02,【过去一年里】，您在学校里曾经以下列任何一种方式【欺负过其他同学】吗？：言语欺负他人（给他人起难听的外号，取笑或讽刺他人）,BULW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULW_y03,【过去一年里】，您在学校里曾经以下列任何一种方式【欺负过其他同学】吗？：排挤、孤立他人（不让他人参与活动，让其他同学不理睬某人等）,BULW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULW_y04,【过去一年里】，您在学校里曾经以下列任何一种方式【欺负过其他同学】吗？：传播他人谣言，说他人坏话，导致他人在大家心目中的印象变差,BULW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULW_y05,【过去一年里】，您在学校里曾经以下列任何一种方式【欺负过其他同学】吗？：网络欺凌（通过互联网或短信欺负、威胁或骚扰他人）,BULW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BULP_y,您主要欺负本班同学还是其他班的同学？,BULP,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMO_y01,您是否尝试过吸卷烟，即使是一两口？,SMO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMO_y02,【在过去 30 天内】，您有几天吸过卷烟？,SMO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMO_y03,您是否使用过电子烟？（外形与卷烟相似，是一种由电池驱动以模拟吸烟过程的电子装置）,SMO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMO_y04,【在过去 30 天内】，您有几天使用过电子烟？,SMO,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ALC_y01,您的饮酒频率如何 ？,ALC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ALC_y02,您每次饮酒4个标准杯及以上的频率是多少？,ALC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ALC_y03,您是否有过醉酒的经历？(醉酒：一次性大量饮酒后，表现出口齿不清、走路摇晃、站立不稳及呕吐等行为。),ALC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ALC_y04,您第一次醉酒的年龄是？（如果记不清楚，请估计）,ALC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+DD_y01,假设您可以获得一些钱，有两种方案，您愿意选择下面哪一种方案,DD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+DD_y02,假设您需要亏损一些钱，有两种方案，您愿意选择下面哪一种方案,DD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+Period01,您开始来月经（或例假）了吗？,Period,,draft based on item-id prefix; not a validated scale or psychological mechanism
+Period02,通常情况下，你月经痛或月经痉挛的疼痛程度有多高？注：0=一点也不痛，10=最剧烈的痛，得分越高代表疼痛程度越强烈。,Period,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y01,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我发现很难控制自己的愤怒和对自己的挫败感,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y02,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：某一部分的我，总是觉得自己不够好,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y03,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我变得对自己非常生气，以至于想伤害自己,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y04,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我对自己有一种厌恶感,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y05,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我不再关心我自己,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y06,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我重复想起并沉浸在自己的失败中,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y07,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我会辱骂自己,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y08,请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我认为我应该受到自我批评,FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+FSCRS_SF_y09,"请仔细阅读下面的陈述，并评价【当事情不顺利时】，以下陈述与您自己的符合程度：我有点不喜欢我自己的某些地方,想要摆脱掉",FSCRS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PCS_y01,当您疼痛时，有哪些想法和感受？请评估一下您体验到感受的程度。：当我疼痛的时候：我一直在想，我是多么希望疼痛能够停止,PCS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PCS_y02,当您疼痛时，有哪些想法和感受？请评估一下您体验到感受的程度。：当我疼痛的时候：我觉得非常糟糕而且永远不会变好了,PCS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PCS_y03,当您疼痛时，有哪些想法和感受？请评估一下您体验到感受的程度。：当我疼痛的时候：我开始害怕疼痛感会越来越强烈,PCS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PCS_y04,当您疼痛时，有哪些想法和感受？请评估一下您体验到感受的程度。：当我疼痛的时候：我急切地想让疼痛消失,PCS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PSQA_y01,想象您的手指被抽屉夹到,PSQA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+PSQA_y02,想象您的手指被割了个小伤口，而且无意中把盐撒到伤口上,PSQA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y01,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：我对自己的看法常常和其他人对我的看法相冲突。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y02,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：关于我自己，今天我有这样的想法，而明天我又会有另外的想法。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y03,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：我花很多时间去考虑我到底是怎么样的一个人。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y04,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：有些时候我感觉到我不是我真正想要成为的那个人。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y05,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：当我想到过去我是怎样的人的时候，我不确定我过去到底是不是那样。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y06,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：我对自己各方面的品质（如能力、脾气、性格等）的认识，很少感到冲突。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y07,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：有时候我认为，我了解他人比了解自己要多。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y08,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：我对自己的看法，变化的非常频繁。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y09,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：如果让我描述自己的品质（如世界观、人生观、价值观、理想等），今天的描述可能和昨天的不太一致。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y10,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：即使我想告诉，我也不认为我能告诉其他人我真正想要的是什么。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y11,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：一般来说，我清楚地知道我是谁，我是怎样的人。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SCC_y12,下面描述了人们关于自己的一些看法，请评估您对每个条目的同意程度。：我通常很难下决定，因为我真的不知道我想要什么。,SCC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVAT_y01,【过去一年，上学日期间】，您平均每天看短视频的时间是？,SVAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVAT_y02,【过去一年，休息日期间】，您平均每天看短视频的时间是？,SVAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y01,您发现自己观看短视频的时间比本来打算的要长,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y02,您尝试在观看短视频上少花些时间但是做不到,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y03,您曾试图向其他人隐瞒您在玩短视频（抖音、快手等）上花了多少时间,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y04,观看短视频时，您需要花费更多时间才能获得和以前一样的满足感,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y05,当有在一段时间未使用手机，您会在拿到手机的第一时间打开短视频应用,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y06,如果您有一阵子没有观看短视频，您会变得焦虑,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y07,当您情绪低落的时候，您会通过观看短视频来改善情绪,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SVA_y08,您发现在面对其他必须要做的事情时，自己却沉迷于观看短视频，为此给您带来些麻烦,SVA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONC_y,您的主要抚养人是,BONC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y01,在对待我的问题时，他/她的态度像是对待他/她自己的问题,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y02,在我的童年时期，我有时会感觉自己是他/她生活中的全部,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y03,他/她喜欢把他/她自己视作我生活中最重要的人,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y04,没有我，他/她的生活会变得空虚,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y05,他/她与我的感受很接近，以至于每次我说话的时候，他/她都能替我把话说完,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BONW_y06,当我对事物的看法与他/她不同时，他/她会不高兴,BONW,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ERD_y01,ERD_y 请根据您的实际情况，评估以下描述出现的频率。：当我不高兴的时候，我认为这种状态会持续很长一段时间。,ERD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ERD_y02,ERD_y 请根据您的实际情况，评估以下描述出现的频率。：当我不高兴时，我认为最终我会感到非常沮丧。,ERD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ERD_y03,ERD_y 请根据您的实际情况，评估以下描述出现的频率。：当我不高兴的时候，我觉得无论我做什么事，都没法让自己变得好受一些。,ERD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ERD_y04,ERD_y 请根据您的实际情况，评估以下描述出现的频率。：当我不高兴时，我就开始感到自己很差劲。,ERD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ERD_y05,ERD_y 请根据您的实际情况，评估以下描述出现的频率。：当我不高兴时，我的情绪是压倒一切的。,ERD,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPAQ_y01,在【过去7天】中，您有多少天进行过【高强度】的运动/体力活动，且持续时间超过 20 分钟？,IPAQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPAQ_y02,在【过去 7 天】中， 您有多少天进行了【低等强度】的运动/体力活动且持续时间超过 20 分钟？（如：步行、太极拳等。）,IPAQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPAQ_y03,在【过去 7 天】中， 您平均每天有几小时是【坐着的】？,IPAQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPAQ_y04,【过去七天】中，您平均每天的户外时间是多少？,IPAQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUB_y01,在【过去 30 天内】，您最后一次吸卷烟或电子烟时是如何获得这些卷烟的？,SUB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUB_y02,您能在学校附近买到卷烟或电子烟吗？,SUB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUBR_y01,您的父母、老师、朋友中，有人吸烟吗？：父亲,SUBR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUBR_y02,您的父母、老师、朋友中，有人吸烟吗？：母亲,SUBR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUBR_y03,您的父母、老师、朋友中，有人吸烟吗？：老师,SUBR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SUBR_y04,您的父母、老师、朋友中，有人吸烟吗？：好朋友,SUBR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y01,请您根据自己的真实想法，对以下说法进行判断。：心理健康是健康的一个组成部分,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y02,请您根据自己的真实想法，对以下说法进行判断。：精神疾病就是思想上出了问题,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y03,"请您根据自己的真实想法，对以下说法进行判断。：很多人都可能存在心理问题, 但自己可能意识不到",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y04,请您根据自己的真实想法，对以下说法进行判断。：精神疾病都是因为受了刺激,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y05,"请您根据自己的真实想法，对以下说法进行判断。：心理健康的主要内容包括智力正常, 情绪稳定, 心情愉快, 人际关系融洽, 适应能力良好等",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y06,请您根据自己的真实想法，对以下说法进行判断。：绝大多数精神疾病是治不好的,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y07,请您根据自己的真实想法，对以下说法进行判断。：怀疑有心理问题或精神疾病就要去找心理医生或者精神科医生看病,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y08,请您根据自己的真实想法，对以下说法进行判断。：几乎任何年龄阶段的人都有可能出现心理问题,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y09,请您根据自己的真实想法，对以下说法进行判断。：精神疾病和心理问题是没有办法预防的,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y10,"请您根据自己的真实想法，对以下说法进行判断。：即使确诊为精神疾病, 吃一段时间药就可以了, 没有必要长期不间断地服药",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y11,请您根据自己的真实想法，对以下说法进行判断。：乐观开朗的生活态度 、良好的人际关系和健康的生活习惯有助于我们保持心理健康,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y12,"请您根据自己的真实想法，对以下说法进行判断。：家族中有精神疾病的人, 出现心理问题和精神疾病的可能性比一般人更大",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y13,请您根据自己的真实想法，对以下说法进行判断。：青少年的心理问题不会影响其学习成绩,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y14,请您根据自己的真实想法，对以下说法进行判断。：中老年人出现心理问题和精神疾病的可能性很小,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y15,"请您根据自己的真实想法，对以下说法进行判断。：有些人的性格不好, 比较容易出现心理问题",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y16,"请您根据自己的真实想法，对以下说法进行判断。：心理压力大,或者遇到重大的事件 (如亲人去世 ), 就容易诱发心理问题和精神障碍",MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y17,请您根据自己的真实想法，对以下说法进行判断。：和有自杀念头的人谈论自杀会增加他们的自杀风险,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y18,请您根据自己的真实想法，对以下说法进行判断。：同性恋是心理疾病。,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MHK_y19,请您根据自己的真实想法，对以下说法进行判断。：没有自杀意图的自伤行为无关紧要，不需要寻求帮助,MHK,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IBS_y01,在【过去3个月】内，您每周出现过多少天腹痛或腹部不适的情况？,IBS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IBS_y02,在【过去的3个月】内，您排便后，腹痛或腹部不适的情况是否有所改善？,IBS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IBS_y03,在【过去的3个月】内，您腹痛或腹部不适的发作是否伴随着排便频率的改变？,IBS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IBS_y04,在【过去的3个月】内，您腹痛或腹部不适的发作是否伴随着大便形态的改变?,IBS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IBS_y05,在【过去的3个月】内，您是否被医生诊断为普通感冒或食物中毒，只会暂时引起腹痛或不适？,IBS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPS_y01,下列描述与人们做事的方法有关，请评估您是否同意每个句子。：我通常会三思而后行。,IPS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPS_y02,下列描述与人们做事的方法有关，请评估您是否同意每个句子。：我经常冲动行事。,IPS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPS_y03,下列描述与人们做事的方法有关，请评估您是否同意每个句子。：我很少花太多时间去了解计划的细节。,IPS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IPS_y04,下列描述与人们做事的方法有关，请评估您是否同意每个句子。：我经常被新的事物冲昏头脑而忽略了潜在的问题。,IPS,,draft based on item-id prefix; not a validated scale or psychological mechanism
+DESPAIR_y01,以下句子是否与您相符？：我觉得未来没有希望，事情无法改善。,DESPAIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+DESPAIR_y02,以下句子是否与您相符？：我总是感到孤独,DESPAIR,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SISE_y,我觉得自己有很多优点，跟同龄人一样优秀。注：0=非常不同意，10=非常同意。,SISE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y01,【过去一个月】，您通常上床睡觉的时间是？,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y02,【过去一个月】，您每晚通常要多长时间（分钟）才能入睡？,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y03,【过去一个月】，您每天早上通常什么时候起床？,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y04,【过去一个月】，您每晚实际睡眠（排除起夜）的时间有多少？（小时）,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y05,【过去一个月】，您是否经常在晚上睡眠中醒来或早醒？,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIQ_y06,您对过去一个月的总睡眠质量的评分？,SIQ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIE_y01,【过去一个月】，您一般午睡多长时间？,SIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIE_y02,【过去一个月】，您平均每周有几天会午睡？,SIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SIE_y03,您如何评价您的午睡质量？,SIE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BRFA_y,您最近【2周】吃早餐的次数？,BRFA,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EXC_y,在【过去 7 天】中， 您有多少天进行了【中等强度】的运动/体力活动且持续时间超过 20 分钟？,EXC,,draft based on item-id prefix; not a validated scale or psychological mechanism
+INJ_y01,在【过去一年】中，您有过几次因运动或体育锻炼而脑震荡的经历？,INJ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+INJ_y02__multiselect,【过去一年】，是否受过以下伤害（多选）,INJ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+INJ_y03,【过去一年】，您因为以上受伤行为去医院的次数有多少？,INJ,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ST_y01,【过去 7 天】，您每天使用手机、电脑、平板电脑、电视等设备的时间是？,ST,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ST_y02,【过去 7 天】，您每天非学习目的使用手机、电脑、平板电脑、电视等设备的时间是？,ST,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ST_y03,在【过去7天】中，您有几天是边吃饭边看电视、电脑、手机、平板等电子设备？,ST,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SL_y,您是住校生吗？多久回一次家？,SL,,draft based on item-id prefix; not a validated scale or psychological mechanism
+demo_caregiver_y__multiselect,您主要的养育者（与您生活在一起并对您进行看护照料的人）是？（多选题）,demo,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMI_y01__multiselect,您有哪些社交账号（用于社交目的账号，不包括拼多多、淘宝等网购账号）？（多选）,SMI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMI_y05,大多数时候，你的社交头像是什么内容？,SMI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SMI_y07,您的父母会干预您的头像选择吗？例如，您选的头像不符合父母的审美时，要求您更换。,SMI,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y01,【过去一年】，您平均饮用奶茶的频率是,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y02,【过去一年】，大多数时候，您喝奶茶会选择,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y03,【过去一年】，您发觉自己起床后需要喝奶茶才能提起精神来的情况，多长时间出现一次？,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y04,【过去一年】，您喝完奶茶感到后悔或自责的情况，多长时间出现一次？,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y05,【过去一年】，您尝试不喝或者减少饮用奶茶时，出现烦躁、注意力难以集中、疲惫或者困倦的程度有多少？,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y06,【过去一年】，您发现，随着时间的增加，您只有增加喝奶茶的频率，才能让自己感觉好一些，比如减少负面情绪或增加快乐,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+MTE_y07,【过去一年】，哪怕您已经知道，饮用奶茶对您的健康有害，但是您仍然无法停止喝奶茶,MTE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_01,当我想感受一些积极的情绪（如快乐或高兴）时，我会改变自己思考问题的角度。,ers,ers_01,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_02,我不会表露自己的情绪。,ers,ers_02,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_03,当我想少感受一些消极的情绪 (如悲伤或愤怒) 时，我会改变自己思考问题的角度。,ers,ers_03,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_04,我控制自己情绪的方式是不表达它们。,ers,ers_04,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_05,当感受到消极的情绪时，我确定不会表露它们。,ers,ers_05,draft based on item-id prefix; not a validated scale or psychological mechanism
+ers_06,当我想少感受一些消极的情绪时，我会改变自己对情境的考虑方式。,ers,ers_06,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y01,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：由于经历过挫折，我总是能很快恢复,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y02,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：面对压力事件时，我常感到不知所措,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y03,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：不用多久，我就能从压力事件中恢复过来,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y04,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：倒霉事件发生后，我总是很难恢复,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y05,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：我总能轻而易举地渡过困难时期,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+RES_y06,下面陈述与人们面对挫折时的表现有关，请根据您【过去一个月】的情况，选择您对以下描述同意的程度：我总是花很长时间来克服生活中所遇到的挫折,RES,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BBN_y01,【过去一年里】，您买了几个盲盒？,BBN,,draft based on item-id prefix; not a validated scale or psychological mechanism
+BBM_y01,【过去一年里】，您在购买盲盒上花费的金额大约是？,BBM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LB_y01,【过去一年里】，您是否在电子游戏或在线平台中打开过战利品箱？,LB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LB_y03,【过去一年里】，您在网上购买战利品箱（【随机】虚拟物品）花费的金额大约是多少？,LB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+LB_y04,【过去一年里】，您在网上购买【非随机】虚拟物品花费的金额大约是多少？,LB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y01__multiselect,您的哪些亲属有过赌博行为？（多选）,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_1,亲生父亲赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_2,亲生母亲赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_3,继父赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_4,继母赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_5,祖父母/外祖父母赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_6,兄弟姐妹赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y02_7,其他亲属赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_1,亲生父亲在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_2,亲生母亲在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_3,继父在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_4,继母在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_5,祖父母/外祖父母在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_6,兄弟姐妹在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y03_7,其他亲属在赌博时会允许您观看或参与吗？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y04,【您自己】赌博的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y05,您第一次赌博的年龄是多少岁？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+GAB_y06,您赌博时受到他人夸奖和肯定的频率如何？,GAB,,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_01,当我紧张的时候，我注意到是我身体哪个部位紧张。,maia,maia_orig_01,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_02,当我的身体不舒服的时候，我会注意到。,maia,maia_orig_02,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_03,我注意到我身体的哪些部位是舒服的。,maia,maia_orig_03,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_04,我注意到自己呼吸的变化，比如，呼吸变慢或变快。,maia,maia_orig_04,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_16,我可以注意我的呼吸而不被周围发生的事情分心。,maia,maia_orig_16,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_17,即使身边有许多事情发生，我仍然能够保持对身体内部感觉的觉察。,maia,maia_orig_17,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_18,当我和其他人交谈的时候，我能注意到我的身体姿势。,maia,maia_orig_18,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_19,被其他事情分心之后，我能重新恢复对自己身体的觉察。,maia,maia_orig_19,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_20,我能把注意力从思考问题重新转移到对身体的感知上。,maia,maia_orig_20,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_21,即使我的身体某个部位正在经历疼痛或不舒服，我也能够保持对整个身体的觉察。,maia,maia_orig_21,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_22,我能有意识地将自己身体作为一个整体来关注。,maia,maia_orig_22,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_23,当我生气的时候，我注意到我身体状态的改变。,maia,maia_orig_23,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_24,当我的生活出现问题的时候，我能从我的身体上感觉到它。,maia,maia_orig_24,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_25,体验过平静安宁之后，我注意到我的身体产生了不同的感觉。,maia,maia_orig_25,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_26,我发现当我感觉舒服的时候，我的呼吸就变得轻松自在。,maia,maia_orig_26,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_27,当我感到快乐或喜悦时，我注意到我身体的变化。,maia,maia_orig_27,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_28,当我感到不堪重负的时候，我能从内心找到平静。,maia,maia_orig_28,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_29,当我去觉察自己的身体时，我感觉到平静。,maia,maia_orig_29,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_30,我能用自己的呼吸来缓解紧张。,maia,maia_orig_30,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_31,当我被各种思绪困扰的时候，我能通过集中注意力在身体或呼吸的方法使我思绪平静下来。,maia,maia_orig_31,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_32,我从我的身体信息中判断我的情绪状态。,maia,maia_orig_32,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_33,当我感到不安的时候，我会花时间去探索身体的感受。,maia,maia_orig_33,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_34,我通过倾听自己的身体来了解我将做什么。,maia,maia_orig_34,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_35,我感受我的身体如同在家一样舒适自在。,maia,maia_orig_35,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_36,我感觉我的身体是一个安全的地方。,maia,maia_orig_36,draft based on item-id prefix; not a validated scale or psychological mechanism
+maia_orig_37,我相信我身体的各种感受。,maia,maia_orig_37,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y01,在【过去一个月里】，您食用谷物及谷物类制品（如面包、饼干、米面或其他由小米、大米、高粱、小麦等制成的食物）的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y02,在【过去一个月里】，您食用根茎和块茎类食物及其制品（如南瓜、胡萝卜、红薯、马铃薯、山药等）的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y03,在【过去一个月里】，您食用蔬菜的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y04,在【过去一个月里 】，您食用水果的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y05,在【过去一个月里 】，您食用肉类、家禽、内脏（比如猪肉、牛肉、羊肉、鸡肉等，以及肝脏、肾脏、心脏等内脏肉）的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y06,在【过去一个月里 】，您食用蛋类的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y07,在【过去一个月里 】，您食用鱼和海鲜（新鲜鱼类或鱼干、贝类等）的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y08,在【过去一个月里 】，您食用豆类及制品（如黄豆、豌豆、扁豆等及其制成的食物）的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y09,在【过去一个月里 】，您食用牛奶和奶制品的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y10,在【过去一个月里 】，您食用油、脂肪或黄油制品的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDM_y11,在【过去一个月里 】，您食用糖或蜂蜜的频率是？,IEDM,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y01,【昨天】，您是否吃过谷物及谷物类制品（如面包、饼干、米面或其他由小米、大米、高粱、小麦等制成的食物）？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y02,【昨天】，您是否吃过根茎和块茎类食物及其制品（如南瓜、胡萝卜、红薯、马铃薯、山药等）？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y03,【昨天】，您是否吃过蔬菜？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y04,【昨天】，您是否吃过水果？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y05,【昨天】，您是否吃过肉类、家禽、内脏（比如猪肉、牛肉、羊肉、鸡肉等，以及肝脏、肾脏、心脏等内脏肉）？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y06,【昨天】，您是否吃过蛋类？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y07,【昨天】，您是否吃过鱼和海鲜（新鲜鱼类或鱼干、贝类等）？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y08,【昨天】，您是否吃过豆类及制品（如黄豆、豌豆、扁豆等及其制成的食物）？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y09,【昨天】，您是否吃过牛奶和奶制品？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y10,【昨天】，您是否吃过油、脂肪或黄油制品？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+IEDY_y11,【昨天】，您是否吃过糖或蜂蜜？,IEDY,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y01,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：我避免吃高脂、高碳水、高热量的食物,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y02,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：我会禁止自己吃一些东西,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y03,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：吃不健康的食品后，我对自己很恼火,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y04,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：如果我渴望吃某种食物，我会允许我自己吃,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y05,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：我想吃什么就吃什么,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EAT_y06,下面的句子与饮食情况有关。请根据您的实际认识或感受，选择最符合的选项。：我不遵守饮食规律或饮食计划，不规定吃什么、什么时候吃、吃多少,EAT,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y01,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：情绪低落时（如焦虑、沮丧、难过）即使不饿我也吃东西,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y02,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：感觉孤独时，即使不饿我会吃东西,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y03,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：有消极情绪时，我用食物来安慰自己,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y04,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：当有压力时，即使不饿我会吃东西,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y05,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：我能自我调节消极情绪(例如，焦虑、难过)，而不是用食物安慰自己,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y06,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：当我无聊时，我不会用吃东西来消磨时间,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y07,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：当我孤独时，我不会从食物中寻求安慰,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+EATE_y08,下面的句子与饮食中的情绪情况有关。请根据您的实际认识或感受，选择最符合的选项。：我有其他方法来应对压力和焦虑，而不是靠吃东西,EATE,,draft based on item-id prefix; not a validated scale or psychological mechanism
+SISE_y_supply,我的自尊心很强 。注：0=非常不同意，10=非常同意。,SISE,,draft based on item-id prefix; not a validated scale or psychological mechanism
